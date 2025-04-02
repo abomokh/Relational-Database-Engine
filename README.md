@@ -42,7 +42,4 @@ This project implements a database management system that supports SQL-based ope
 - SQL
 - SQLite/PostgreSQL (or any other supported database)
 
-## Contributors
-- [Ibrahim Abomokh](https://github.com/abomokh)
-
 
