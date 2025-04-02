@@ -43,8 +43,6 @@ This project implements a database management system that supports SQL-based ope
 - SQLite/PostgreSQL (or any other supported database)
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Ibrahim Abomokh](https://github.com/abomokh)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
